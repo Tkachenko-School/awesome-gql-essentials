@@ -1,5 +1,6 @@
 # awesome-gql-essentials
 
+pt#
 
 https://wehavefaces.net/graphql-shorthand-notation-cheatsheet-17cd715861b6
 
@@ -11,12 +12,17 @@ https://blog.apollographql.com/full-stack-error-handling-with-graphql-apollo-5c1
 
 https://blog.apollographql.com/how-to-build-graphql-servers-87587591ded5
 
+---
 
+pt#
 
 https://softchris.github.io/pages/graphql-express.html#parameterized-query
 
 https://medium.com/@__xuorig__/on-graphql-schema-stitching-api-gateways-5dcb579fa90f
 
+---
+
+pt#
 
 https://medium.com/@hpux/make-web-real-time-with-graphql-subscriptions-5a59ac1b010c
 
@@ -25,10 +31,10 @@ https://levelup.gitconnected.com/going-serverless-with-nodejs-graphql-5b34f5d280
 https://levelup.gitconnected.com/going-serverless-with-nodejs-graphql-part-ii-1810445028a4
 
 
+---
 
 
-
-
+pt#
 
 https://medium.com/hackernoon/build-a-graphql-server-from-scratch-using-express-part-1-304341f9adba
 
@@ -43,6 +49,9 @@ https://netflixtechblog.com/our-learnings-from-adopting-graphql-f099de39ae5f
 
 https://www.freecodecamp.org/news/a-new-approach-to-mocking-graphql-data-1ef49de3d491/
 
+---
+
+pt#
 https://www.freecodecamp.org/news/how-to-set-up-a-graphql-server-using-node-js-express-mongodb-52421b73f474/
 
 https://medium.com/atheros/how-to-learn-graphql-react-and-node-js-faster-bdc95e8510c7
@@ -58,3 +67,5 @@ https://medium.com/yld-blog/create-custom-graphql-types-999f009d3f46
 
 
 https://adrianhall.github.io/cloud/2018/08/14/how-to-deploy-graphql-api-serverless-framework/
+
+
