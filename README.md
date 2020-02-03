@@ -14,11 +14,6 @@ https://blog.apollographql.com/how-to-build-graphql-servers-87587591ded5
 
 ---
 
-pt#
-
-https://softchris.github.io/pages/graphql-express.html#parameterized-query
-
-https://medium.com/@__xuorig__/on-graphql-schema-stitching-api-gateways-5dcb579fa90f
 
 ---
 
@@ -30,11 +25,6 @@ https://levelup.gitconnected.com/going-serverless-with-nodejs-graphql-5b34f5d280
 
 https://levelup.gitconnected.com/going-serverless-with-nodejs-graphql-part-ii-1810445028a4
 
-
----
-
-
-pt#
 
 https://medium.com/hackernoon/build-a-graphql-server-from-scratch-using-express-part-1-304341f9adba
 
@@ -67,5 +57,10 @@ https://medium.com/yld-blog/create-custom-graphql-types-999f009d3f46
 
 
 https://adrianhall.github.io/cloud/2018/08/14/how-to-deploy-graphql-api-serverless-framework/
+
+
+https://softchris.github.io/pages/graphql-express.html#parameterized-query
+
+https://medium.com/@__xuorig__/on-graphql-schema-stitching-api-gateways-5dcb579fa90f
 
 
