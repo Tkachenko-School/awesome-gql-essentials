@@ -9,3 +9,7 @@
 - https://medium.com/yld-blog/create-custom-graphql-types-999f009d3f46
 
 - https://adrianhall.github.io/cloud/2018/08/14/how-to-deploy-graphql-api-serverless-framework/
+
+- https://softchris.github.io/pages/graphql-express.html#parameterized-query
+
+- https://medium.com/@__xuorig__/on-graphql-schema-stitching-api-gateways-5dcb579fa90f
